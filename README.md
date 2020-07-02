@@ -9,7 +9,7 @@ Competencies: Arrow functions, researching with MDN, careful reading of instruct
 
 ## Setup:
 
-In today's directory, clone this lab, and create and test our beloved client-side folder structure: 
+In today's directory, fork this lab, then clone from your forked version, and create and test our beloved client-side folder structure: 
 
 ![client side js folder structure](https://i.imgur.com/YksT98c.png)
 
